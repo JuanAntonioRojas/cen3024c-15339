@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="cop2805.Fibo">
+  <grid id="27dc6" binding="Thread_Calc" layout-manager="CardLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="337" height="400"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="f25b2" class="javax.swing.JLabel" binding="lblEnter">
+        <constraints>
+          <card name="Card2"/>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="2"/>
+          <text value="Enter Name: "/>
+          <verticalAlignment value="1"/>
+        </properties>
+      </component>
+      <component id="a1c78" class="javax.swing.JTextField" binding="textName">
+        <constraints>
+          <card name="Card3"/>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="4"/>
+        </properties>
+      </component>
+      <component id="dddf6" class="javax.swing.JButton" binding="btnClick">
+        <constraints>
+          <card name="Card4"/>
+        </constraints>
+        <properties>
+          <horizontalAlignment value="4"/>
+          <text value="Click Me"/>
+          <verticalAlignment value="3"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
