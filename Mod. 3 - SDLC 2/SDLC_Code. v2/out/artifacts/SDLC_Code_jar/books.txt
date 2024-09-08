@@ -1,0 +1,35 @@
+1, The Odyssey, Homer
+2, The Divine Comedy, Dante Alighieri
+3, The Canterbury Tales, Geoffrey Chaucer
+4, Don Quixote, Miguel de Cervantes
+5, Paradise Lost, John Milton
+6, Gulliver’s Travels, Jonathan Swift
+7, Tom Jones, Henry Fielding
+8, Candide, Voltaire
+9, The Life and Opinions of Tristram Shandy Gentleman, Laurence Sterne 
+10, The Sorrows of Young Werther, Goethe
+11, Sense and Sensibility, Jane Austen
+12, Pride and Prejudice, Jane Austen
+13, Mary Shelley, Frankenstein
+14, The Last of the Mohicans, James Fenimore Cooper
+15, The Hunchback of Notre-Dame, Victor Hugo
+16, The Tell-Tale Heart, Edgar Allan Poe
+17, Jane Eyre, Charlotte Brontë
+18, Wuthering Heights, Emily Brontë
+19, The Scarlet Letter, Nathaniel Hawthorne
+20, Herman Melville, Moby-Dick
+21, Bleak House, Charles Dickens
+22, Madame Bovary, Gustave Flaubert
+23, Crime and Punishment, Fyodor Dostoevsky
+24, War and Peace, Leo Tolstoy
+25, Far from the Madding Crowd, Thomas Hardy
+26, The Adventures of Tom Sawyer, Mark Twain
+27, The Portrait of a Lady, Henry James
+28, The Picture of Dorian Gray, Oscar Wilde
+29, Heart of Darkness, Joseph Conrad
+30, My Ántonia, Willa Cather
+31, Mrs Dalloway, Virginia Woolf
+32, The Great Gatsby, F. Scott Fitzgerald
+33, 1984, George Orwell
+34, The Catcher in the Rye, J.D. Salinger
+35, To Kill a Mockingbird, Harper Lee
