@@ -296,10 +296,10 @@ public class Main {
                     String qry = "INSERT INTO `books` (Title, Author) VALUES ('" + Title + "', '" + Author + "')";
                     transactWithDB(url, usr, pwd, qry);
                 }
-                println("Book list added successfully!");
             } catch (IOException | SQLException | ClassNotFoundException e) {
                 println("Error reading file: " + e.getMessage());
             }
+            println("Book list added successfully!");
         } else {
             println("File not found: " + file.getAbsolutePath());
         }
