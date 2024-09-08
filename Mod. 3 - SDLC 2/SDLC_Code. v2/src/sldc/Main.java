@@ -295,8 +295,8 @@ public class Main {
                     //  Prepare and call the "transactWithDB" method, to insert this data into the database.
                     String qry = "INSERT INTO `books` (Title, Author) VALUES ('" + Title + "', '" + Author + "')";
                     transactWithDB(url, usr, pwd, qry);
-                    println("Book list added successfully!");
                 }
+                println("Book list added successfully!");
             } catch (IOException | SQLException | ClassNotFoundException e) {
                 println("Error reading file: " + e.getMessage());
             }
